@@ -1,5 +1,8 @@
 # gui-qml Fuzzing Artifacts
 
+
+[![Fuzz and Security Audit](https://github.com/bitcoincore-dev/gui-qml/actions/workflows/fuzz.yml/badge.svg)](https://github.com/bitcoincore-dev/gui-qml/actions/workflows/fuzz.yml)
+
 This repository stores fuzzing artifacts produced by the
 [gui-qml](https://github.com/bitcoincore-dev/gui-qml) CI.
 
